@@ -152,39 +152,7 @@ end)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 d3 moving platform 10:38
-
-
-
-
-
-
 
 while true do
 	
@@ -206,3 +174,4 @@ while true do
 	end
 	
 end
+
